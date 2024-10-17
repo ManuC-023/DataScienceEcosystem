@@ -1,2 +1,2 @@
 # DataScienceEcosystem
-### Jupiter Notebook for Coursera graded assigment for 'Tools for Data Science' Module
+### Jupiter Notebook for Coursera graded assigment from 'Tools for Data Science' Module
